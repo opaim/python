@@ -1,1 +1,1 @@
-print ("teste python - aws commit!")
+print ("teste python - aws -ec2-ubuntu commit!")
